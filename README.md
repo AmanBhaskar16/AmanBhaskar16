@@ -2,12 +2,12 @@
 <img align='right' alt='coding' width='400' src='https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXRla2I1OG8zdzl0dTg0NWJoeGpudjRtcndiOTZvaTVrajk0bmUzayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif'>
 
 ### 👨‍💻 MERN Stack Developer  
-🎓 3rd Year B.Tech (CSE) Student at IIIT Ranchi  
+🎓 Final Year B.Tech (CSE) Student at IIIT Ranchi  
 🧱 Focused on Building Full-Stack Web Apps with 🟨 JavaScript, ⚛️ React, 🚂 Express & 🍃 MongoDB  
 🔍 Always Exploring | 🛠️ Always Building
 
-- 🌱 I’m currently learning **Next.js**  
-- 💬 Ask me about **React, Node.js, Express, MongoDB, JavaScript**  
+- 🌱 I’m currently learning **Devops**  
+- 💬 Ask me about **React,Nextjs, Node.js, Express, MongoDB, JavaScript**  
 - 📫 How to reach me **amanbhaskar16@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
