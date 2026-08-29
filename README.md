@@ -168,7 +168,7 @@
   <a href="https://leetcode.com/u/Aman_Bhaskar16/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
-  <a href="https://drive.google.com/file/d/1E5xPdG6MgqKV4RgwnIYNul7px_n5qLKj/view?usp=drive_link">
+  <a href="https://drive.google.com/file/d/1UPrUJnRd43yCAzLu5Kf7Z2QuZzXpQw-N/view?usp=sharing">
     <img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume"/>
   </a>
 </p>
